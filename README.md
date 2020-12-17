@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I code everyday on practical projects that I come up with. I'm trying to balance between Designing and Programming since I have so many ideas on _UX/UI Design_ and _Front-end Development Projects_ at the same time 😄.
+I code everyday on practical projects that I come up with, seriously **everyday**. I'm trying to balance between Designing and Programming since I have so many ideas on _UX/UI Design_ and _Front-end Development Projects_ at the same time 😄.
 
 I spend a lot of time on Codepen. I also love painting, playing music and watching movies.
 
