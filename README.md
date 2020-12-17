@@ -24,7 +24,7 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 ✨ **I'M NOW OPEN FOR HIRING** ✨
 
 📫 Please check my CV through my [Website](https://www.vincentle.me "Website") or [Linkedin](https://www.linkedin.com/in/vincentlefh "Linkedin Page") 📫
-💬 You could also contact me directly via this [Email](vincentle.fh@gmail.com "Work Email") 💬
+💬 You could also contact me directly via this [Email](mailto:vincentle.fh@gmail.com "Work Email") 💬
 
 
 
