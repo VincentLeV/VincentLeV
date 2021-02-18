@@ -1,7 +1,6 @@
 # Hey there, visitors <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me
-<span><a href="https://1drv.ms/b/s!AtJLAieHPR3-gY5avbHENWaFZGHSeQ" target="_blank"><img src="https://img.shields.io/badge/MY%20CV-green?style=for-the-badge" alt="My CV" /></a></span>
 <span><a href="https://www.linkedin.com/in/vincentlefh" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Page" /></a></span>
 <span><a href="mailto:vincentle.fh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail" alt="Email" /></a></span>
 <span><a href="https://www.vincentle.me" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-yellowgreen?style=for-the-badge&logo=googlechrome" alt="Website" /></a></span>
