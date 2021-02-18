@@ -5,6 +5,7 @@
 <span><a href="mailto:vincentle.fh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail" alt="Email" /></a></span>
 <span><a href="https://www.vincentle.me" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-yellowgreen?style=for-the-badge&logo=googlechrome" alt="Website" /></a></span>
 <br>
+
 I code everyday on practical projects that I come up with, seriously **everyday**. I'm trying to balance between Designing and Programming since I have so many ideas on _UX/UI Design_ and _Front-end Development Projects_ at the same time 😄.
 
 I spend a lot of time on Codepen. I also love painting, playing music and watching movies.
@@ -42,8 +43,8 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 
 <br>
 <br>
-<span style="text-align: center"><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></span>
-<span style="text-align: center"><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/></span>
+<span><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></span>
+<span><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/></span>
 
 
 
