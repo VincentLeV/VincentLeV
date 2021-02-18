@@ -4,7 +4,6 @@
 <span><a href="https://www.linkedin.com/in/vincentlefh" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Page" /></a></span>
 <span><a href="mailto:vincentle.fh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail" alt="Email" /></a></span>
 <span><a href="https://www.vincentle.me" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-yellowgreen?style=for-the-badge&logo=googlechrome" alt="Website" /></a></span>
-
 <br>
 I code everyday on practical projects that I come up with, seriously **everyday**. I'm trying to balance between Designing and Programming since I have so many ideas on _UX/UI Design_ and _Front-end Development Projects_ at the same time 😄.
 
@@ -13,6 +12,8 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 🌱 I'm currently learning a lot of Javascript as well as trying to get my Dribbble and Behance pages filled up with projects for showcasing my ideas. 🔭
 
 ✨ **I'M NOW OPEN FOR HIRING** ✨
+
+<br>
 
 ## :computer: Tech Stack
 <span><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /></span>
@@ -41,8 +42,8 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 
 <br>
 <br>
-<span><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></span>
-<span><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/></span>
+<span style="text-align: center"><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></span>
+<span style="text-align: center"><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/></span>
 
 
 
