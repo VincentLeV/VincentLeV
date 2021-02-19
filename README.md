@@ -44,8 +44,16 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 
 <br>
 <br>
-<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></p>
-<!--<span><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/></span>-->
+<p align="center">
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/>
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/>
+</p>
+<br>
+<br>
 
+## :page_with_curl: Projects
+
+### <a href="https://github.com/VincentLeV/simple-calculator" target="_blank">Calculator App</a> | <span><a href="https://codepen.io/vincentle/full/KKNvwVR">Live Demo</a></span>
+<img src="https://github.com/VincentLeV/gif-storage/blob/main/calculator%20(1).gif" width="800" />
 
 
