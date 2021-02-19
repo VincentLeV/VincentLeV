@@ -1,4 +1,4 @@
-# Hey there, visitors <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <div align="center">Hey there, visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
 ## About Me
 <span><a href="https://github.com/VincentLeV/Vincent_CV_Developer/blob/main/Vincent_CV_Official.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20MY%20CV-yellowgreen?style=for-the-badge&logo=bandsintown" alt="CV" /></a></span>
@@ -44,7 +44,7 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 
 <br>
 <br>
-<span><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></span>
+<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=merko" alt="Github Stats"/></p>
 <!--<span><img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=merko" alt="Top Languages"/></span>-->
 
 
