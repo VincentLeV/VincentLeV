@@ -54,6 +54,6 @@ I spend a lot of time on Codepen. I also love painting, playing music and watchi
 ## :page_with_curl: Projects
 
 ### <a href="https://github.com/VincentLeV/simple-calculator" target="_blank">Calculator App</a> | <span><a href="https://codepen.io/vincentle/full/KKNvwVR">Live Demo</a></span>
-<img src="https://github.com/VincentLeV/gif-storage/blob/main/calculator%20(1).gif" width="800" />
+<img src="https://github.com/VincentLeV/gif-storage/blob/main/Simple%20Calculator.gif" width="800" />
 
 
