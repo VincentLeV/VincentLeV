@@ -47,7 +47,7 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 <br></br>
 
 <details>
-    <summary>:scroll: Opinsuunnitelmat</summary>
+    <summary>📚 Opinsuunnitelmat</summary>
 &nbsp;
 
 ```

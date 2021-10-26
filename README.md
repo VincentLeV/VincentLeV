@@ -48,7 +48,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 <br><br/>
 
 <details>
-    <summary>:books: Plan To Learn</summary>
+    <summary>📚 Plan To Learn</summary>
 &nbsp;
 
 ```
