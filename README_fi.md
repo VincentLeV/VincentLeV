@@ -1,9 +1,9 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&right_color=green&left_text=vierailijoita)
 
-## Tiedot
+## Tietoja minusta
 
 <span>
-  <a href="https://github.com/VincentLeV/my-cv-developer/blob/main/VincentLe_CV_FrontEndDeveloper.pdf?raw=true" target="_blank">
+  <a href="https://github.com/VincentLeV/cv-developer/blob/main/VincentLe_CV_FrontEndDeveloper_final.pdf?raw=true" target="_blank">
     <img src="https://img.shields.io/badge/lataa%20CV:ni-blueviolet?style=for-the-badge&logo=bandsintown" alt="CV" />
   </a>
 </span>
@@ -28,26 +28,26 @@
 <br></br>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="assets/english.png" height="13">EN</a></td></tr>
- <tr><td><a href="README_fi.md"><img src="assets/finland.png" height="13">FI</a></td></tr>
- <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">VI</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/english.png" height="13">  EN</a></td></tr>
+ <tr><td><a href="README_fi.md"><img src="assets/finland.png" height="13">  FI</a></td></tr>
+ <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">  VI</a></td></tr>
 </table>
 
 Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 💻 Koodaa joka päivä käytännön projekteissa, **tosissaan joka päivä!**
 
-🎨🎹🎞️	Rakastan maalaamista, soittimia ja elokuvien katselua.
+🎨🎹🎞️	Rakastan maalaamista, soittamista ja elokuvien katselua.
 
-🌱 Taitojen kehittäminen, jotta voin kutsua itseäni Full Stack -kehittäjäksi.
+🌱 Haluan kehittää taitojani, jotta voin kutsua itseni Full Stack -kehittäjäksi.
 
-🌱 Haluat oppia tekoälyä ja koneoppimista perusteellisesti.
+🌱 Tekoäly ja koneoppiminen kiinnostaa minua.
 
 ✨ **OLEN NYT AVOINNA TYÖSKENTELYÖN** ✨
 <br></br>
 
 <details>
-    <summary>:scroll: Suunnittele oppia</summary>
+    <summary>:scroll: Opinsuunnitelmat</summary>
 &nbsp;
 
 ```

@@ -3,7 +3,7 @@
 ## Về Tôi
 
 <span>
-  <a href="https://github.com/VincentLeV/my-cv-developer/blob/main/VincentLe_CV_FrontEndDeveloper.pdf?raw=true" target="_blank">
+  <a href="https://github.com/VincentLeV/cv-developer/blob/main/VincentLe_CV_FrontEndDeveloper_final.pdf?raw=true" target="_blank">
     <img src="https://img.shields.io/badge/Tải%20CV-blueviolet?style=for-the-badge&logo=bandsintown" alt="CV" />
   </a>
 </span>
@@ -28,9 +28,9 @@
 <br><br/>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="assets/english.png" height="13">EN</a></td></tr>
- <tr><td><a href="README_fi.md"><img src="assets/finland.png" height="13">FI</a></td></tr>
- <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">VI</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/english.png" height="13">  EN</a></td></tr>
+ <tr><td><a href="README_fi.md"><img src="assets/finland.png" height="13">  FI</a></td></tr>
+ <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">  VI</a></td></tr>
 </table>
 
 Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
