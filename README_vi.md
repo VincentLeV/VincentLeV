@@ -29,8 +29,8 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="assets/english.png" height="13">EN</a></td></tr>
- <tr><td><a href="README_fi.md"><img src="assets/finland.svg" height="13">FI</a></td></tr>
- <tr><td><a href="README_vi.md"><img src="images/vietnam.svg" height="13">VI</a></td></tr>
+ <tr><td><a href="README_fi.md"><img src="assets/finland.png" height="13">FI</a></td></tr>
+ <tr><td><a href="README_vi.md"><img src="images/vietnam.png" height="13">VI</a></td></tr>
 </table>
 
 Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
