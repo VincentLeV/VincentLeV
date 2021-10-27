@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&right_color=green)
+![visitors](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=KHÁCH)
 
 ## Về Tôi
 
