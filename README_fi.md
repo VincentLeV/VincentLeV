@@ -35,7 +35,7 @@
 
 Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Koodaa joka päivä käytännön projekteissa, **tosissaan joka päivä!**
+💻 Koodaa **joka päivä** käytännön projekteissa!
 
 🎨🎹🎞️	Rakastan maalaamista, soittamista ja elokuvien katselua.
 
@@ -51,10 +51,11 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 &nbsp;
 
 ```
-1. C#
-2. Typescript
+1. Typescript
+2. Dart
 3. Python
 4. DevOps
+5. C#
 ...
 ```
 </details>

@@ -35,7 +35,7 @@
 
 Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Lập trình mỗi ngày với những dự án thực tế, **mỗi ngày thật đấy!**
+💻 Lập trình **mỗi ngày** với những dự án thực tế!
 
 🎨🎹🎞️	Yêu hội họa, chơi nhiều nhạc cụ và thích xem phim.
 
@@ -51,10 +51,11 @@ Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 &nbsp;
 
 ```
-1. C#
-2. Typescript
+1. Typescript
+2. Dart
 3. Python
 4. DevOps
+5. C#
 ...
 ```
 </details>

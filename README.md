@@ -36,7 +36,7 @@
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Code everyday on practical projects, **seriously everyday!**
+💻 Code **everyday** on practical projects!
 
 🎨🎹🎞️	Love painting, playing musical instruments and watching movies.
 
@@ -52,10 +52,11 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 &nbsp;
 
 ```
-1. C#
-2. Typescript
+1. Typescript
+2. Dart
 3. Python
 4. DevOps
+5. C#
 ...
 ```
 </details>
