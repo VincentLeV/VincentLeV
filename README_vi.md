@@ -3,7 +3,7 @@
 ## Về Tôi
 
 <span>
-  <a href="https://github.com/VincentLeV/cv-developer/blob/main/VincentLe_CV_FrontEndDeveloper_final.pdf?raw=true" target="_blank">
+  <a href="https://github.com/VincentLeV/cv-developer/blob/main/VincentLe_CV_FullstackDeveloper.pdf?raw=true" target="_blank">
     <img src="https://img.shields.io/badge/Tải%20CV-blueviolet?style=for-the-badge&logo=bandsintown" alt="CV" />
   </a>
 </span>
