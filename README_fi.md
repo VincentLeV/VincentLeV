@@ -39,11 +39,11 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 🎨🎹🎞️	Rakastan maalaamista, soittamista ja elokuvien katselua.
 
-🌱 Haluan kehittää taitojani, jotta voin kutsua itseni Full Stack -kehittäjäksi.
+🌱 Haluan kehittää taitojani, jotta voin kutsua itseni Fullstack -kehittäjäksi ja tieto-insinööri.
 
 🌱 Tekoäly ja koneoppiminen kiinnostaa minua.
 
-✨ **OLEN NYT AVOINNA TYÖSKENTELYÖN** ✨
+<!-- ✨ **OLEN NYT AVOINNA TYÖSKENTELYÖN** ✨ -->
 <br></br>
 
 <details>

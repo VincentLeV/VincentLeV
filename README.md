@@ -40,11 +40,11 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 🎨🎹🎞️	Love painting, playing musical instruments and watching movies.
 
-🌱 Improve skills so I can call myself a Full-stack Developer.
+🌱 Improve skills so I can call myself a Fullstack Developer / Data Engineer.
 
-🌱 Want to learn AI and Machine Learning in-depth.
-
-✨ **I'M NOW OPEN FOR HIRING** ✨
+🌱 Want to learn AI and Machine Learning.
+<!-- 
+✨ **I'M NOW OPEN FOR HIRING** ✨ -->
 <br><br/>
 
 <details>
