@@ -52,7 +52,8 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 ```
 1. Data Engineering
-2. Dart
+2. Next.js
+3. Dart / Flutter
 ...
 ```
 </details>
