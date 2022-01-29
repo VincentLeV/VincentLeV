@@ -36,7 +36,7 @@
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Code **everyday** on practical projects!
+💻 I Code **everyday** on practical projects!
 
 🎨🎹🎞️	Love painting, playing musical instruments and watching movies.
 

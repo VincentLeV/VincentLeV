@@ -35,7 +35,7 @@
 
 Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Lập trình **mỗi ngày** với những dự án thực tế!
+💻 Tôi lập trình **mỗi ngày** với những dự án thực tế!
 
 🎨🎹🎞️	Yêu hội họa, chơi nhiều nhạc cụ và thích xem phim.
 
