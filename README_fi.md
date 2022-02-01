@@ -65,15 +65,22 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 - [Full Stack Open 2021](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fi/34467d5cf7e945d7a3685120a26f13a8)
 
-- [Full Stack Open 2021 - React Native](https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/fi/9e89bda1c449d7bf47422504a2c8b971)
+- [Full Stack Open 2021 - CI/CD](https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/a34a303061780349c524d5fd82f08c54)
 
-- [Full Stack Open 2021 - CI/CD](https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/fi/a34a303061780349c524d5fd82f08c54)
+- [Full Stack Open 2021 - Containers](https://studies.cs.helsinki.fi/stats/api/certificate/fs-containers/en/17384dd5c32604cae5fd4b0469e760c0)
+
+- [Full Stack Open 2021 - TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/52269ec4279360b2590940c832a912da)
+
+- [Full Stack Open 2021 - GraphQL](https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/1a09b9a0f755c0821a93933d91cd1699)
+
+- [Full Stack Open 2021 - React Native](https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/fi/9e89bda1c449d7bf47422504a2c8b971)
 
 - [Front End Development](https://socialhackersacademy.org/certifies/?graduate=vincent-le)
 </details>
 &nbsp;
 
 ## :computer: Taidot
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -87,20 +94,21 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 &nbsp;
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-%2300EA64.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 &nbsp;
 
