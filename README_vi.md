@@ -63,6 +63,8 @@ Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
     <summary>:scroll: Chứng chỉ</summary>
 &nbsp;
 
+- [Full Stack Open 2022 - Relational Databases](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/0e52969157e99db05bb966a607385f2b)
+
 - [Full Stack Open 2021](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/34467d5cf7e945d7a3685120a26f13a8)
 
 - [Full Stack Open 2021 - CI/CD](https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/a34a303061780349c524d5fd82f08c54)

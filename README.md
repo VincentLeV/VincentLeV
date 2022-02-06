@@ -36,7 +36,7 @@
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 I Code **everyday** on practical projects!
+💻 I code **everyday** on practical projects!
 
 🎨🎹🎞️	Love painting, playing musical instruments and watching movies.
 
@@ -63,6 +63,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 <details>
     <summary>:scroll: Certificate</summary>
 &nbsp;
+
+- [Full Stack Open 2022 - Relational Databases](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/0e52969157e99db05bb966a607385f2b)
 
 - [Full Stack Open 2021](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/34467d5cf7e945d7a3685120a26f13a8)
 
