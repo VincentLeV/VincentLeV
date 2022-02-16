@@ -123,9 +123,13 @@ Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe_illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+<br></br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=flat&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET&no-frame=true&margin-w=20" />
+</div>
 
 <br><br/>
-<p align="center">
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=vue" alt="Github Stats"/>
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=vue" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=vue" alt="Github Stats"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=vue" alt="Top Languages"/>
+</div>
