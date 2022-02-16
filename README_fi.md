@@ -126,7 +126,7 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 <br></br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=flat&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET&no-frame=true&margin-w=20" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=flat&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,UNKNOWN,SECRET&no-frame=true&margin-w=20" />
 </div>
 
 <br><br/>

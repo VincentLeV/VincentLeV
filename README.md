@@ -124,7 +124,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ![Adobe Illustrator](https://img.shields.io/badge/adobe_illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 <br></br>
-<div align="center" style="padding: 0 0 0 5rem">
+<div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=flat&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,UNKNOWN,SECRET&no-frame=true&margin-w=20" />
 </div>
 
