@@ -45,9 +45,11 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 🎨🎹🎞️	Love painting, playing musical instruments and watching movies.
 
-🌱 Improve skills so I can call myself a Fullstack Developer / Data Engineer.
+🌱 Improve skills so I can call myself a Data Engineer.
 
 🌱 Want to learn AI and Machine Learning.
+
+✨ Interested in creating IoT Devices
 <!-- 
 ✨ **I'M NOW OPEN FOR HIRING** ✨ -->
 <br/>
@@ -127,6 +129,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ### CI/CD - DevOps
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Scripting](https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)

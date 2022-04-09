@@ -48,8 +48,10 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 🌱 Tekoäly ja koneoppiminen kiinnostaa minua.
 
+✨ Kiinnostunut IoT-laitteiden luomisesta.
+
 <!-- ✨ **OLEN NYT AVOINNA TYÖSKENTELYÖN** ✨ -->
-<br></br>
+<br />
 
 <details>
     <summary>📚 Opinsuunnitelmat</summary>
@@ -126,6 +128,7 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 ### CI/CD - DevOps
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Scripting](https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Pilvipalvelut
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
