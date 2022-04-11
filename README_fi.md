@@ -44,7 +44,7 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 🎨🎹🎞️	Rakastan maalaamista, soittamista ja elokuvien katselua.
 
-🌱 Haluan kehittää taitojani, jotta voin kutsua itseni Fullstack -kehittäjäksi ja tieto-insinööri.
+🌱 Haluan kehittää taitojani, jotta voin kutsua itseni Tieto-insinööri.
 
 🌱 Tekoäly ja koneoppiminen kiinnostaa minua.
 

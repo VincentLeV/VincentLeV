@@ -44,7 +44,7 @@ Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 🎨🎹🎞️	Yêu hội họa, chơi nhiều nhạc cụ và thích xem phim.
 
-🌱 Đang cải thiện kỹ năng để có thể gọi bản thân là Fullstack Developer và Data Engineer.
+🌱 Đang cải thiện kỹ năng để có thể gọi bản thân là Data Engineer.
 
 🌱 Muốn học chuyên sâu về trí tuệ nhân tạo và học máy.
 
