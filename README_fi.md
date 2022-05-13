@@ -58,9 +58,12 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 &nbsp;
 
 ```
-1. Data Engineering
-2. Next.js
-3. Dart / Flutter
+1. Next.js
+2. Apache Spark / PySpark
+3. Databricks
+4. scikit-learn + NumPy
+5. TensorFlow
+6. Dart / Flutter
 ...
 ```
 </details>
