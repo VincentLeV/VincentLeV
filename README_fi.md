@@ -61,9 +61,9 @@ Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 1. Next.js
 2. Apache Spark / PySpark
 3. Databricks
-4. scikit-learn + NumPy
-5. TensorFlow
-6. Dart / Flutter
+4. Dart / Flutter
+5. scikit-learn + NumPy
+6. TensorFlow
 ...
 ```
 </details>
