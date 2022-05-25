@@ -59,12 +59,11 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 &nbsp;
 
 ```
-1. Next.js
-2. Apache Spark / PySpark
-3. Databricks
-4. Dart / Flutter
-5. scikit-learn + NumPy
-6. TensorFlow
+1. Apache Spark / PySpark
+2. Databricks
+3. Dart / Flutter
+4. scikit-learn + NumPy
+5. TensorFlow
 ...
 ```
 </details>
@@ -103,6 +102,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Front-end Development
+![NextJS](https://img.shields.io/badge/nextjs-%23333333.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
