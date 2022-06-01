@@ -70,8 +70,10 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 &nbsp;
 
 <details>
-    <summary>:scroll: Certificate</summary>
+    <summary>:scroll: Certificates</summary>
 &nbsp;
+
+- [AZ900 - Microsoft Azure Fundamentals](https://www.credly.com/badges/ae32c35b-72ea-4113-bdcc-cb219be9773a/public_url)
 
 - [Full Stack Open 2022 - Relational Databases](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/0e52969157e99db05bb966a607385f2b)
 
