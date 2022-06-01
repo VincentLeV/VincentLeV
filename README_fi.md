@@ -38,7 +38,8 @@
  <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">  VI</a></td></tr>
 </table>
 
-Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+Hei :wave:
 
 💻 Koodaa **joka päivä** käytännön projekteissa!
 

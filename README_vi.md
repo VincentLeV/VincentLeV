@@ -38,7 +38,8 @@
  <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">  VI</a></td></tr>
 </table>
 
-Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Xin Chào <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+Xin chào :wave:
 
 💻 Tôi lập trình **mỗi ngày** với những dự án thực tế!
 

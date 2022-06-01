@@ -39,7 +39,8 @@
  <tr><td><a href="README_vi.md"><img src="assets/vietnam.png" height="13">  VI</a></td></tr>
 </table>
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+<!-- Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
+Hi :wave:
 
 💻 I code **everyday** on practical projects!
 
