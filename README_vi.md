@@ -73,6 +73,10 @@ Xin chào :wave:
     <summary>:scroll: Chứng chỉ</summary>
 &nbsp;
 
+- [DP900 - Microsoft Azure Data Fundamentals](https://www.credly.com/badges/cc8d977e-9714-47ca-8d95-71bf6d78f0db/public_url)
+
+- [OpenHack: AI-Powered Knowledge Mining](https://www.credly.com/badges/4151855b-3fbd-4340-ac9b-d0fbff8e9404/public_url)
+
 - [AZ900 - Microsoft Azure Fundamentals](https://www.credly.com/badges/ae32c35b-72ea-4113-bdcc-cb219be9773a/public_url)
 
 - [Full Stack Open 2022 - Relational Databases](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/0e52969157e99db05bb966a607385f2b)
