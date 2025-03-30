@@ -124,7 +124,7 @@ Hi :wave:
 ### Back-end Development
 ![Node](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nest-EA2762?style=for-the-badge&logo=nest.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-EA2762?style=for-the-badge&logo=nest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Mobile Development
