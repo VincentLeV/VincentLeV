@@ -60,11 +60,11 @@ Hi :wave:
 &nbsp;
 
 ```
-1. Apache Spark / PySpark
-2. Databricks
-3. Dart / Flutter
-4. scikit-learn + NumPy
-5. TensorFlow
+1. Kubernetes
+2. Airflow
+3. Airbyte
+4. Electron / Tauri
+5. Dart / Flutter
 ...
 ```
 </details>
@@ -124,6 +124,7 @@ Hi :wave:
 ### Back-end Development
 ![Node](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nest-EA2762?style=for-the-badge&logo=nest.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Mobile Development

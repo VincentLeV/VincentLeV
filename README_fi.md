@@ -59,11 +59,11 @@ Hei :wave:
 &nbsp;
 
 ```
-1. Apache Spark / PySpark
-2. Databricks
-3. Dart / Flutter
-4. scikit-learn + NumPy
-5. TensorFlow
+1. Kubernetes
+2. Airflow
+3. Airbyte
+4. Electron / Tauri
+5. Dart / Flutter
 ...
 ```
 </details>
