@@ -3,7 +3,7 @@
 ## Tietoja minusta
 
 <span>
-  <a href="https://github.com/VincentLeV/cv-developer/blob/main/VincentLe_CV_2025.pdf?raw=true" target="_blank">
+  <a href="https://github.com/VincentLeV/cv-developer/blob/main/VincentLe_CV_SoftwareEngineer.pdf?raw=true" target="_blank">
     <img src="https://img.shields.io/badge/lataa%20CV:ni-blueviolet?style=for-the-badge&logo=bandsintown" alt="CV" />
   </a>
 </span>
