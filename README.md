@@ -166,11 +166,11 @@ Hi :wave:
 
 <br><br/>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<div>
+<div align="center">
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=vue" alt="Github Stats"/>
 </div>
 <br><br/>
-<div style="margin: 1rem 0 0 0;">
+<div align="center" style="margin: 1rem 0 0 0;">
   <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentlev&layout=pie&theme=vue" alt="Top Languages"/>
 </div>
 <div>
