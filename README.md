@@ -161,7 +161,6 @@ Hi :wave:
 <br></br>
 <div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=algolia&rank=-?&no-frame=true&margin-w=20&row=2&column=4" />
-
 </div>
 
 <br><br/>

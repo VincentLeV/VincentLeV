@@ -164,16 +164,12 @@ Hei :wave:
 </div>
 
 <br><br/>
-<table style="width: 100%">
-<tr style="border: none; background-color: transparent">
-<td style="text-align: center; border: none;">
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=vue" alt="Github Stats"/>
-</td>
-</tr>
-<tr style="border: none; background-color: transparent">
-<td style="text-align: center; border: none;">
-<img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentlev&layout=pie&theme=vue" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div align="center">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=vue" alt="Github Stats"/>
+</div>
+<br><br/>
+<div align="center" style="margin: 1rem 0 0 0;">
+  <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentlev&layout=pie&theme=vue" alt="Top Languages"/>
+</div>
 <div>
