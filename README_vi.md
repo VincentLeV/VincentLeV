@@ -59,11 +59,10 @@ Xin chào :wave:
 &nbsp;
 
 ```
-1. Kubernetes
-2. Airflow
-3. Airbyte
-4. Electron / Tauri
-5. Dart / Flutter
+1. Airbyte
+2. Kubernetes
+3. Electron / Tauri
+4. Dart / Flutter
 ...
 ```
 </details>
@@ -99,45 +98,47 @@ Xin chào :wave:
 
 ## :computer: Kỹ Năng
 
-### Ngôn Ngữ
+### Ngôn Ngữ Lập Trình
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+### Các Ngôn Ngữ Khác
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Phát Triển Front-end
-![NextJS](https://img.shields.io/badge/nextjs-%23333333.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff)
+![Next.js](https://img.shields.io/badge/next.js-%23333333.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuex](https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Phát Triển Back-end
-![Node](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Phát Triển Điện Thoại
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Databases
-
-![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=#FFCA28)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=#FFCA28)
 
-### CI/CD - DevOps
+### CI/CD - DevOps - Orchestration
+![Airflow](https://img.shields.io/badge/airflow-00C7D4.svg?style=for-the-badge&logo=apacheairflow&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Scripting](https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -157,11 +158,15 @@ Xin chào :wave:
 
 <br></br>
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=flat&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,UNKNOWN,SECRET&no-frame=true&margin-w=20" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=vincentlev&theme=algolia&rank=-?&no-frame=true&margin-w=20&row=2&column=4" />
 </div>
 
 <br><br/>
-<div align="center">
+<div style="display: flex; flex-direction: row; column-gap: 0.5rem;">
+<div>
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VincentLeV&show_icons=true&theme=vue" alt="Github Stats"/>
+</div>
+<div>
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLeV&theme=vue" alt="Top Languages"/>
+</div>
 </div>
