@@ -25,11 +25,6 @@
     <img src="https://img.shields.io/badge/verkkosivusto-%23E5E5E5?style=for-the-badge&logo=googlechrome" alt="Website" />
   </a>
 </span>
-<span>
-  <a href="https://vincentlev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogini-%23FF5722?style=for-the-badge&logo=blogger&logoColor=%23FFFFFF" alt="Blogini" />
-  </a>
-</span>
 <br></br>
 
 <table align="right">
